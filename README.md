@@ -1,1 +1,1 @@
-# FullStack_projects
+# How to run the webApp from your computer
