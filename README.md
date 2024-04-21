@@ -3,7 +3,7 @@
 ## Download the files:
 1) common_spanish_words.csv
 2) memory_tips.txt
-3) pic_!.png
+3) pic_1.png
 4) main.py
 
 ** make sure your virtual environment correspond to the requirements file.
