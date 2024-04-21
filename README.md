@@ -10,8 +10,7 @@
 
 ## run in terminal:
 streamlit run main.py
-
-## Now you can practice the most common spanish words!
+- Now you can practice the most common spanish words!
 
 
 ## Want to take it to the next level?
