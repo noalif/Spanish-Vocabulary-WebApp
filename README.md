@@ -16,7 +16,7 @@ streamlit run main.py
 
 ## Want to take it to the next level?
 #### More information about Momento's digital Spanish course for beginners:
-### https://momento-school.ravpage.co.il/MomentoSchool
+#### https://momento-school.ravpage.co.il/MomentoSchool
 
 ## Demo of the WebApp:
 
